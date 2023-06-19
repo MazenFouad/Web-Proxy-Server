@@ -55,6 +55,4 @@ For any questions or support regarding the Python Web Proxy Server, please conta
 - Your Name: Mazen
 - Project Repository: https://github.com/MazenFouad
 
-Feel free to customize this README file according to your specific project requirements. Provide detailed instructions, additional information, or any other relevant sections to help users understand and utilize your Python web proxy server effectively.
 
-Good luck with your project!
